@@ -31,7 +31,7 @@ const userSchema=new mongoose.Schema({
 });
 
 
-//Pre used for before saving the password and ()=> cant use this method so instead func
+//Pre used for before saving the password
 userSchema.pre("save",async function(next){
 
     //if password is changed it will check this condition 
