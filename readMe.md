@@ -22,11 +22,8 @@ DB_CONNECT=
 JWT_SECRET=
 JWT_EXPIRE=
 COOKIE_EXPIRE=
-SMPT_SERVICE =
 SMPT_MAIL=
 SMPT_PASSWORD=
-SMPT_HOST=
-SMPT_PORT=
 
 _fill each filed with your info respectively_
 
