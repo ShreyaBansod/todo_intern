@@ -13,7 +13,7 @@ To run this application on your local machine, follow these steps:
 ```bash   
    npm install 
 ``````
-Create a .env file in TODO/server directory and add the appropriate env variables to use the application.            
+Create a .env file in server directory and add the appropriate env variables to use the application.            
 
 ***Essential Variables***
 
